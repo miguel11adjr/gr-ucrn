@@ -1,0 +1,10 @@
+This a GNU Radio module that is used in the UPRM Cognitive Radio and Network Reearch team. 
+
+Installing:
+1) git clone git: https://github.com/miguel11adjr/gr-ucrn.git
+2) cd gr-ucrn
+3) mkdir build
+4) cd build
+5) cmake ..
+6) make
+7) sudo make install
