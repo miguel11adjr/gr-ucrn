@@ -1,0 +1,15 @@
+<block>
+  <name>Amplificador</name>
+  <key>ucrn_amplificador</key>
+  <category>UCRN</category>
+  <import>import ucrn</import>
+  <make>ucrn.amplificador()</make>
+  <sink>
+    <name>in</name>
+    <type>float</type>
+  </sink>
+  <source>
+    <name>out</name>
+    <type>float</type>
+  </source>
+</block>
